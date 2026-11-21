@@ -1,0 +1,15 @@
+# Archives & backups
+*.zip
+*.rar
+*.tar.gz
+*.bak
+
+# Environment & Logs
+.env
+*.log
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
